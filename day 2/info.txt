@@ -1,0 +1,7 @@
+5 дневный марафон
+https://vladilen.ru/marathon/drag
+https://www.youtube.com/watch?v=JhaiRth3Qw4
+
+Урок 2: Работа с Drag & Drop
+
+Загрузка в хранилище проекта: jsfiddle.net

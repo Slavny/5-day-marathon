@@ -1,8 +1,8 @@
 5 дневный марафон
-https://vladilen.ru/marathon/cards
-https://www.youtube.com/watch?v=vRdWv2uRgkg
+https://vladilen.ru/marathon/slider
+https://www.youtube.com/watch?v=uLlXx0KyS6k&t=1307s
 
-Урок 1: Создаём галерею из карточек
+Урок 3: Создаём слайдер картинок
 
 Картинки для карточек: unsplash.com
 Загрузка в хранилище проекта: jsfiddle.net
