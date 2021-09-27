@@ -1,0 +1,7 @@
+5 дневный марафон
+https://vladilen.ru/marathon/board
+https://www.youtube.com/watch?v=rAwszUm3RjQ&t=1s
+
+Урок 4: Создаём свою мини-игру
+
+Загрузка в хранилище проекта: jsfiddle.net
