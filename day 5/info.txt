@@ -1,0 +1,7 @@
+5 дневный марафон
+https://vladilen.ru/marathon/game
+https://www.youtube.com/watch?v=m8RlLQPmwaM&t=1s
+
+Урок 5: Напишем игру AIM Game
+
+Загрузка в хранилище проекта: jsfiddle.net
